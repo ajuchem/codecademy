@@ -1,1 +1,3 @@
-# codecademy
+# Codecademy
+
+Javascript exercises from Codecademy
