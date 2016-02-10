@@ -1,4 +1,4 @@
 # Codecademy
 
-Javascript exercises from Codecademy
-I modified|refactored|added some of them. Lots of comments!
+Javascript exercises from Codecademy.
+I refactored some of them. Lots of comments!
