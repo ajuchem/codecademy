@@ -7,6 +7,8 @@ Defined using the function keyword followed by:
 
 When we call a function, we can put inputs (arguments) for the parameters.
 
+```javascript
 var square = function (x) {
   return x * x;
 };
+```
