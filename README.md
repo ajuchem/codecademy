@@ -1,6 +1,6 @@
 # Codecademy
 
-Javascript exercises from Codecademy.
+Javascript and JQuery exercises from Codecademy.
 I refactored some of them. Lots of comments!
 
 
