@@ -14,6 +14,6 @@ So,
 ```javascript
 $(document).ready(something);
 ```
-says: "when the HTML document is ready, do something!" (We'll show you how to replace something with an action in the next exercise.)
+says: "when the HTML document is ready, do something!"
 
 Note that ```.ready();``` ends with a semicolon. This tells jQuery that you're done  giving it a command.
