@@ -37,9 +37,9 @@ body {
   background: #5C4D4C;
   text-decoration: none;
   -moz-border-bottom-left-radius:5px;
-    -moz-border-bottom-right-radius:5px;
-    border-bottom-left-radius:5px;
-    border-bottom-right-radius:5px;
+  -moz-border-bottom-right-radius:5px;
+  border-bottom-left-radius:5px;
+  border-bottom-right-radius:5px;
 }
 
 .pull-me p {
